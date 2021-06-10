@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @mariaejejej Maria Izquierdo Diaz
 - 📨 My linkedln profile is: https://www.linkedin.com/in/maria-izquierdo31/ 
 - 🖥 I am working for a company in Spain as a **Frontend Developer**. I have full experience programming in different languages, especially in **React**, **JavaScript**, and **Java**.
-- I studied at Southern Illinois University (USA) 🇺🇸 and Universidad de Murcia (Spain)🇪🇸 on **Computer Engineering** and **Computer Science** and specializing in **Software Engineering**.
+- I studied at Southern Illinois University (USA) 🇺🇸 and Universidad de Murcia (Spain)🇪🇸 for **Computer Engineering** and **Computer Science** and specializing in **Software Engineering**.
