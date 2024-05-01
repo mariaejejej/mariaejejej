@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @mariaejejej Maria Izquierdo Diaz
+- 👋 Hi, I'm Maria Tapscott
 - 📨 My linkedln profile is: https://www.linkedin.com/in/maria-izquierdo31/ 
-- 🖥 I am working for a company in Spain as a **Frontend Developer**. I have full experience programming in different languages, especially in **React**, **JavaScript**, and **Java**.
+- 🖥 I am a **Software Engineer** at **John Deere** but I am looking for a change and new opportunities. I have full experience programming in different languages, especially in **React**, **JavaScript**, and **Java**.
 - I studied at Southern Illinois University (USA) 🇺🇸 and Universidad de Murcia (Spain)🇪🇸 for **Computer Engineering** and **Computer Science** and specializing in **Software Engineering**.
+- The main project on this GitHub page is  [Buy Furniture]([url](https://github.com/mariaejejej/buy-furniture)) to view the web page use this [link](buy-furniture-nine.vercel.app/ )
